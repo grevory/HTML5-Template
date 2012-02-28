@@ -1,0 +1,9 @@
+/* Enter custom styles here */
+
+@media all and (orientation:portrait) {
+/* Style adjustments for portrait mode goes here */
+}
+
+@media all and (orientation:landscape) {
+/* Style adjustments for landscape mode goes here */
+}
